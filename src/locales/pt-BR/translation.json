@@ -1,5 +1,5 @@
 {
-  "Log In": "Entrar",
+  "Log In": "Iniciar sessão",
   "Do not have the account?": "Não tem uma conta?",
   "Sign Up": "Cadastrar",
   "Username": "Usuário",
@@ -41,5 +41,9 @@
   "Please enter Email": "Por favor inserir Email",
   "About": "Sobre",
   "Support": "Suporte",
-  "Contact Us": "Fale conosco"
+  "Contact Us": "Fale conosco",
+  "Not you? return": "Não é você? Retornar para",
+  "Enter your password to access the admin.": "Insira sua senha para acessar o administrador.",
+  "Authentication in with": "Autenticar com",
+  "Hi !": "Olá !"
 }

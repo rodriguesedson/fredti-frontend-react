@@ -33,7 +33,7 @@ const LockScreen2 = () => {
         <AccountLayout2 bottomLinks={<BottomLink />}>
             <div className="text-center w-75 m-auto">
                 <img src={avatar1} height="64" alt="" className="rounded-circle shadow" />
-                <h4 className="text-dark-50 text-center mt-3 fw-bold">{t('Hi ! Michael ')}</h4>
+                <h4 className="text-dark-50 text-center mt-3 fw-bold">{`${t('Hi !')} Michael`}</h4>
                 <p className="text-muted mb-4">{t('Enter your password to access the admin.')}</p>
             </div>
 
